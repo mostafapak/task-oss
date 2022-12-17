@@ -2,7 +2,7 @@ using System;
 
 namespace Mostafa;  
 
-public class Mostafa{
+public class person{
     private string _name;
     public string Name{
         get { return _name; }
